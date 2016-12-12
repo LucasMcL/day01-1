@@ -73,4 +73,5 @@ function adjustCoordinates(dist) {
   }
 }
 
+// Taxicab distance is x coord + y coord
 console.log("Solution is: ", (x + y))
